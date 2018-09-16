@@ -1,0 +1,34 @@
+_repo: The-Old-Soak-and-Hail-And-Farewell_51920
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Patterson, Sterling
+    gutenberg_agent_id: '46608'
+    url: http://www.gutenberg.org/2009/agents/46608
+creator:
+  author:
+    agent_name: Marquis, Don
+    aliases:
+    - Marquis, Donald Robert Perry
+    - Marquis, D. R. (Donald Robert)
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '245'
+    url: http://www.gutenberg.org/2009/agents/245
+    wikipedia: http://en.wikipedia.org/wiki/Don_Marquis
+description: ''
+gutenberg_issued: '2016-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcsh 'Humorous poetry, American'
+- !lcc 'PS'
+- GITenberg
+title: The Old Soak, and Hail And Farewell
+url: http://www.gutenberg.org/ebooks/51920
